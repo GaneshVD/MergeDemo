@@ -1,2 +1,3 @@
 # comments
 pwd
+Remove-Item
